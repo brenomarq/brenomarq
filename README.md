@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brenomarq
 - 👀 I’m interested in developing websites and mobile apps.
-- 🌱 I’m currently learning Python, Node.js, React and C++.
+- 🌱 I’m currently learning Python, Node.js, React and Java.
 - 💞️ I’m looking to collaborate on some open-source projects.
 - 📫 How to reach me @breno_ghost (instagram)
 - ⚡ Fun fact: ...
