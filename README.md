@@ -1,9 +1,53 @@
-- 👋 Hi, I’m @brenomarq, a brazilian self-taught full-stack web and mobile developer.
-- 👀 I’m interested in AI, Machine Learning, Web and Mobile development with Typescript.
-- 🌱 I’m currently programming with C languague in order to improver my skills and knowledge as a programmer.
-- 💞️ I’m looking to collaborate on some open-source projects and web development projects.
-- 📫 How to reach me @breno_ghost (instagram).
-- ⚡ Fun fact: I really love studying foreign languages, so I speak portuguese, english, spanish and french. Furthermore, I love music and playing the guitar.
+# 👋 Hi, I'm Breno Marques!
+
+I'm an iOS Developer passionate about building intuitive, user-focused mobile experiences using **Swift**, **SwiftUI**, and **UIKit**.
+
+📱 I currently develop iOS applications at the **Apple Developer Academy | UCB**, where I work in multidisciplinary teams delivering innovative solutions using agile methodologies.  
+🚀 I also have freelance experience and **one app published on the App Store**, built from scratch using modern iOS architecture and Apple frameworks.
+
+---
+
+## 🛠️ Tech Stack & Interests
+
+### **iOS Development**
+- Swift • SwiftUI • UIKit  
+- MVVM • MVC • Clean Code  
+- REST APIs • SPM • CocoaPods
+- CoreData • Realm
+- XCTest (unit & UI tests)
+
+### **Other Experience**
+- Java (Springboot)
+- Typescript (React/Next.js & Node.js)  
+- C Programming (academic + algorithmic training)
+- Interest in AI & Machine Learning
+
+---
+
+## 📱 App Store
+- **Solaris — Focus & Productivity**  
+  *Built using SwiftUI, UIKit, Screen Time API, and modern architecture.*  
+  → *https://apps.apple.com/br/app/solaris-focus-productivity/id6751549690?l=en-GB*
+
+---
+
+## 🤝 Looking to Collaborate On
+- Open-source iOS projects  
+- Apps that use modern Apple frameworks  
+- Projects involving innovation, accessibility, or user-centric design
+
+---
+
+## 🌐 Find Me 
+- Email: **brenomarques516@gmail.com**  
+- LinkedIn: *www.linkedin.com/in/breno-marques-a821562a8*
+
+---
+
+## ⚡ Fun Facts
+- I love studying foreign languages — I speak **Portuguese, English, Spanish, and French**.  
+- I'm passionate about music and have been playing guitar for years.
+- Always exploring new technologies and challenging myself with new projects.
 
 <!---
 brenomarq/brenomarq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
