@@ -30,9 +30,7 @@ I'm an iOS Developer passionate about building intuitive, user-focused mobile ex
   → *https://apps.apple.com/br/app/solaris-focus-productivity/id6751549690?l=en-GB*
 
 - **Skinflow — Rotina de Skincare**
-  
   *Built using SwiftUI, SwiftData, UserNotifications and other Apple Frameworks.*
-  
   → *https://apps.apple.com/br/app/skinflow-rotina-de-skincare/id6756526641?l=en-GB*
   
 
