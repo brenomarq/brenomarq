@@ -3,7 +3,7 @@
 I'm an iOS Developer passionate about building intuitive, user-focused mobile experiences using **Swift**, **SwiftUI**, and **UIKit**.
 
 📱 I currently develop iOS applications at the **Apple Developer Academy | UCB**, where I work in multidisciplinary teams delivering innovative solutions using agile methodologies.  
-🚀 I also have freelance experience and **one app published on the App Store**, built from scratch using modern iOS architecture and Apple frameworks.
+🚀 I also have freelance experience and **three apps published on the App Store**, built from scratch using modern iOS architecture and Apple frameworks.
 
 ---
 
