@@ -13,7 +13,7 @@ I'm an iOS Developer passionate about building intuitive, user-focused mobile ex
 - Swift • SwiftUI • UIKit  
 - MVVM • MVC • Clean Code  
 - REST APIs • SPM • CocoaPods
-- CoreData • Realm
+- CoreData • SwiftData • Realm
 - XCTest (unit & UI tests)
 
 ### **Other Experience**
@@ -25,6 +25,10 @@ I'm an iOS Developer passionate about building intuitive, user-focused mobile ex
 ---
 
 ## 📱 App Store
+- **Libree - Ensino de Libras**  
+  *Built using SwiftUI, CoreData, MVVM and Clean Architecture.*  
+  → *https://apps.apple.com/us/app/libree-ensino-de-libras/id6761421768*
+
 - **Solaris — Focus & Productivity**  
   *Built using SwiftUI, UIKit, Screen Time API, and modern architecture.*  
   → *https://apps.apple.com/br/app/solaris-focus-productivity/id6751549690?l=en-GB*
